@@ -55,6 +55,6 @@ We are a organization of Minecraft, hoping to find like-minded people to work to
 </table>
 
 ## Join us
-- [![](https://img.shields.io/discord/1406985208984633454?logo=discord&labelColor=6A7EC2&color=7389D8)](https://discord.gg/daSchNY7Sr) <-Click to Join
+- [![Discord](https://img.shields.io/discord/1406985208984633454?logo=discord&labelColor=6A7EC2&color=7389D8)](https://discord.gg/daSchNY7Sr) <-Click to Join
 
 For more details, you can find it in [our github repo](https://github.com/TOC-Project-Team/.github)
