@@ -42,6 +42,16 @@ We are a organization of Minecraft, hoping to find like-minded people to work to
         /><br /><sub><b>RegadPole</b></sub></a>
       <p>co-founder, developer</p>
     </td>
+    <!-- mio -->
+    <td align="center">
+      <a href="https://space.bilibili.com/1473710310"
+        ><img
+          src="https://i0.hdslb.com/bfs/face/d1d20979345cd08a98df0ec54a5982d3acb27358.jpg"
+          width="50px;"
+          alt=""
+        /><br /><sub><b>mio</b></sub></a>
+      <p>co-founder</p>
+    </td>
     <!-- xc -->
     <td align="center">
       <a href="https://github.com/XChen446"
