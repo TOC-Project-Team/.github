@@ -42,6 +42,33 @@ We are a organization of Minecraft, hoping to find like-minded people to work to
         /><br /><sub><b>RegadPole</b></sub></a>
       <p>co-founder, developer</p>
     </td>
+    <!-- mio -->
+    <td align="center">
+      <a href="https://space.bilibili.com/1473710310"
+        ><img id="mio"
+          src=""
+          width="50px;"
+          alt=""
+        /><br /><sub><b>mio</b></sub></a>
+      <p>co-founder</p>
+    </td>
+    <script>
+        // const xhr = new XMLHttpRequest();
+        // xhr.open('GET', 'https://jsonplaceholder.typicode.com/users');
+        // xhr.onload = () => {
+        // if (xhr.status === 200) {
+        // console.log(xhr.responseText);
+        // } else {
+        // console.error(`Error: ${xhr.status}`);
+        // }
+        // };
+        // xhr.send();
+        fetch('https://api.bilibili.com/x/web-interface/card?mid=1473710310')
+            .then(response => response.json())
+            .then(data => data.data.card.face)
+            .then(avatar => document.getElementById("mio").src = avatar)
+            .catch(error => console.error(error));
+    </script>
     <!-- xc -->
     <td align="center">
       <a href="https://github.com/XChen446"
